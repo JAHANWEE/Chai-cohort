@@ -165,3 +165,5 @@ What is our goal for next 6 months:
 3. send verb(GET , POST etc) + URL + data + more....
 4. gets the response back with status with status code and data(img , csv , text)
 5. TCP connection is closed.
+
+Feel free to drop suggestions . Will be uploading notes everyday.Happy learning !
